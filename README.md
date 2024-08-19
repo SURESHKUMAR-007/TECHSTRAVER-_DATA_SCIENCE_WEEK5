@@ -4,7 +4,7 @@ Here we have the two python code files for two different projects with the outpu
 
 
               PROJECT 1:
-JARVIS-AI VOICE ASSISTANT
+   #JARVIS-AI VOICE ASSISTANT
             
             PROJECT 2:
-RESUME ANALYSIS
+  #RESUME ANALYSIS
